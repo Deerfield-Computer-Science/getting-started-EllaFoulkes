@@ -2,5 +2,6 @@ import acm.program.*;
 public class HelloWorldTryTwo extends ConsoleProgram{
 public void run(){
 println ("Hello My World");
+println("cool beans");
 }
 }
